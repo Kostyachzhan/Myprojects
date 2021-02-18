@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Zip": {
+      "commandName": "Project",
+      "commandLineArgs": "extract C:\\Users\\biost\\OneDrive\\Документы\\Repos\\netsukuku.tar.gz C:\\Users\\biost\\OneDrive\\Документы\\Repos\\netsukuku-extracted"
+    }
+  }
+}

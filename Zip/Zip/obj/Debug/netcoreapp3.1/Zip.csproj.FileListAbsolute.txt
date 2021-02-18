@@ -1,0 +1,30 @@
+C:\Users\Vanavan\source\repos\Zip\Zip\bin\Debug\netcoreapp3.1\Zip.exe
+C:\Users\Vanavan\source\repos\Zip\Zip\bin\Debug\netcoreapp3.1\Zip.deps.json
+C:\Users\Vanavan\source\repos\Zip\Zip\bin\Debug\netcoreapp3.1\Zip.runtimeconfig.json
+C:\Users\Vanavan\source\repos\Zip\Zip\bin\Debug\netcoreapp3.1\Zip.runtimeconfig.dev.json
+C:\Users\Vanavan\source\repos\Zip\Zip\bin\Debug\netcoreapp3.1\Zip.dll
+C:\Users\Vanavan\source\repos\Zip\Zip\bin\Debug\netcoreapp3.1\Zip.pdb
+C:\Users\Vanavan\source\repos\Zip\Zip\bin\Debug\netcoreapp3.1\ICSharpCode.SharpZipLib.dll
+C:\Users\Vanavan\source\repos\Zip\Zip\obj\Debug\netcoreapp3.1\Zip.csprojAssemblyReference.cache
+C:\Users\Vanavan\source\repos\Zip\Zip\obj\Debug\netcoreapp3.1\Zip.AssemblyInfoInputs.cache
+C:\Users\Vanavan\source\repos\Zip\Zip\obj\Debug\netcoreapp3.1\Zip.AssemblyInfo.cs
+C:\Users\Vanavan\source\repos\Zip\Zip\obj\Debug\netcoreapp3.1\Zip.csproj.CoreCompileInputs.cache
+C:\Users\Vanavan\source\repos\Zip\Zip\obj\Debug\netcoreapp3.1\Zip.csproj.CopyComplete
+C:\Users\Vanavan\source\repos\Zip\Zip\obj\Debug\netcoreapp3.1\Zip.dll
+C:\Users\Vanavan\source\repos\Zip\Zip\obj\Debug\netcoreapp3.1\Zip.pdb
+C:\Users\Vanavan\source\repos\Zip\Zip\obj\Debug\netcoreapp3.1\Zip.genruntimeconfig.cache
+C:\Users\biost\OneDrive\Рабочий стол\Zip\Zip\bin\Debug\netcoreapp3.1\Zip.exe
+C:\Users\biost\OneDrive\Рабочий стол\Zip\Zip\bin\Debug\netcoreapp3.1\Zip.deps.json
+C:\Users\biost\OneDrive\Рабочий стол\Zip\Zip\bin\Debug\netcoreapp3.1\Zip.runtimeconfig.json
+C:\Users\biost\OneDrive\Рабочий стол\Zip\Zip\bin\Debug\netcoreapp3.1\Zip.runtimeconfig.dev.json
+C:\Users\biost\OneDrive\Рабочий стол\Zip\Zip\bin\Debug\netcoreapp3.1\Zip.dll
+C:\Users\biost\OneDrive\Рабочий стол\Zip\Zip\bin\Debug\netcoreapp3.1\Zip.pdb
+C:\Users\biost\OneDrive\Рабочий стол\Zip\Zip\bin\Debug\netcoreapp3.1\ICSharpCode.SharpZipLib.dll
+C:\Users\biost\OneDrive\Рабочий стол\Zip\Zip\obj\Debug\netcoreapp3.1\Zip.csprojAssemblyReference.cache
+C:\Users\biost\OneDrive\Рабочий стол\Zip\Zip\obj\Debug\netcoreapp3.1\Zip.AssemblyInfoInputs.cache
+C:\Users\biost\OneDrive\Рабочий стол\Zip\Zip\obj\Debug\netcoreapp3.1\Zip.AssemblyInfo.cs
+C:\Users\biost\OneDrive\Рабочий стол\Zip\Zip\obj\Debug\netcoreapp3.1\Zip.csproj.CoreCompileInputs.cache
+C:\Users\biost\OneDrive\Рабочий стол\Zip\Zip\obj\Debug\netcoreapp3.1\Zip.csproj.CopyComplete
+C:\Users\biost\OneDrive\Рабочий стол\Zip\Zip\obj\Debug\netcoreapp3.1\Zip.dll
+C:\Users\biost\OneDrive\Рабочий стол\Zip\Zip\obj\Debug\netcoreapp3.1\Zip.pdb
+C:\Users\biost\OneDrive\Рабочий стол\Zip\Zip\obj\Debug\netcoreapp3.1\Zip.genruntimeconfig.cache

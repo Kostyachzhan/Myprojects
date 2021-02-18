@@ -1,0 +1,30 @@
+C:\Users\biost\OneDrive\Рабочий стол\CoordsTranslator\CoordsTranslator\bin\Debug\CoordsTranslator.exe.config
+C:\Users\biost\OneDrive\Рабочий стол\CoordsTranslator\CoordsTranslator\bin\Debug\CoordsTranslator.exe
+C:\Users\biost\OneDrive\Рабочий стол\CoordsTranslator\CoordsTranslator\bin\Debug\CoordsTranslator.pdb
+C:\Users\biost\OneDrive\Рабочий стол\CoordsTranslator\CoordsTranslator\obj\Debug\CoordsTranslator.csprojAssemblyReference.cache
+C:\Users\biost\OneDrive\Рабочий стол\CoordsTranslator\CoordsTranslator\obj\Debug\MainWindow.g.cs
+C:\Users\biost\OneDrive\Рабочий стол\CoordsTranslator\CoordsTranslator\obj\Debug\App.g.cs
+C:\Users\biost\OneDrive\Рабочий стол\CoordsTranslator\CoordsTranslator\obj\Debug\CoordsTranslator_MarkupCompile.cache
+C:\Users\biost\OneDrive\Рабочий стол\CoordsTranslator\CoordsTranslator\obj\Debug\CoordsTranslator_MarkupCompile.lref
+C:\Users\biost\OneDrive\Рабочий стол\CoordsTranslator\CoordsTranslator\obj\Debug\MainWindow.baml
+C:\Users\biost\OneDrive\Рабочий стол\CoordsTranslator\CoordsTranslator\obj\Debug\CoordsTranslator.g.resources
+C:\Users\biost\OneDrive\Рабочий стол\CoordsTranslator\CoordsTranslator\obj\Debug\CoordsTranslator.Properties.Resources.resources
+C:\Users\biost\OneDrive\Рабочий стол\CoordsTranslator\CoordsTranslator\obj\Debug\CoordsTranslator.csproj.GenerateResource.cache
+C:\Users\biost\OneDrive\Рабочий стол\CoordsTranslator\CoordsTranslator\obj\Debug\CoordsTranslator.csproj.CoreCompileInputs.cache
+C:\Users\biost\OneDrive\Рабочий стол\CoordsTranslator\CoordsTranslator\obj\Debug\CoordsTranslator.exe
+C:\Users\biost\OneDrive\Рабочий стол\CoordsTranslator\CoordsTranslator\obj\Debug\CoordsTranslator.pdb
+C:\Users\Vanavan\Downloads\CoordsTranslator\CoordsTranslator\bin\Debug\CoordsTranslator.exe.config
+C:\Users\Vanavan\Downloads\CoordsTranslator\CoordsTranslator\bin\Debug\CoordsTranslator.exe
+C:\Users\Vanavan\Downloads\CoordsTranslator\CoordsTranslator\bin\Debug\CoordsTranslator.pdb
+C:\Users\Vanavan\Downloads\CoordsTranslator\CoordsTranslator\obj\Debug\CoordsTranslator.csprojAssemblyReference.cache
+C:\Users\Vanavan\Downloads\CoordsTranslator\CoordsTranslator\obj\Debug\MainWindow.g.cs
+C:\Users\Vanavan\Downloads\CoordsTranslator\CoordsTranslator\obj\Debug\App.g.cs
+C:\Users\Vanavan\Downloads\CoordsTranslator\CoordsTranslator\obj\Debug\CoordsTranslator_MarkupCompile.cache
+C:\Users\Vanavan\Downloads\CoordsTranslator\CoordsTranslator\obj\Debug\CoordsTranslator_MarkupCompile.lref
+C:\Users\Vanavan\Downloads\CoordsTranslator\CoordsTranslator\obj\Debug\MainWindow.baml
+C:\Users\Vanavan\Downloads\CoordsTranslator\CoordsTranslator\obj\Debug\CoordsTranslator.g.resources
+C:\Users\Vanavan\Downloads\CoordsTranslator\CoordsTranslator\obj\Debug\CoordsTranslator.Properties.Resources.resources
+C:\Users\Vanavan\Downloads\CoordsTranslator\CoordsTranslator\obj\Debug\CoordsTranslator.csproj.GenerateResource.cache
+C:\Users\Vanavan\Downloads\CoordsTranslator\CoordsTranslator\obj\Debug\CoordsTranslator.csproj.CoreCompileInputs.cache
+C:\Users\Vanavan\Downloads\CoordsTranslator\CoordsTranslator\obj\Debug\CoordsTranslator.exe
+C:\Users\Vanavan\Downloads\CoordsTranslator\CoordsTranslator\obj\Debug\CoordsTranslator.pdb
